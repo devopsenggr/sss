@@ -4,4 +4,11 @@
   <artifactId>abc</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  <dependencies>
+  	<dependency>
+  		<groupId>abc</groupId>
+  		<artifactId>abc</artifactId>
+  		<version>6</version>
+  	</dependency>
+  </dependencies>
 </project>
